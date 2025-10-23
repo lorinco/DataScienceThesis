@@ -1,0 +1,15 @@
+numpy>=1.23
+pandas>=1.5
+scipy>=1.9
+matplotlib>=3.6
+networkx>=2.8
+gymnasium>=0.28,<1.0
+stable-baselines3>=2.3.0
+sb3-contrib>=2.3.0
+torch>=2.1
+wntr>=0.5
+tensorboard>=2.12
+scikit-learn>=1.7.2
+joblib>=1.5.2
+tqdm
+plotly 
